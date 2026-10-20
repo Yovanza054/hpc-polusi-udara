@@ -1,0 +1,298 @@
+{
+  "jumlah_skenario": 36,
+  "jumlah_core": 2,
+  "waktu_serial_detik": 2.525,
+  "waktu_paralel_detik": 1.38,
+  "speedup": 1.83,
+  "hasil_serial_sama_dengan_paralel": true,
+  "hasil": [
+    {
+      "wind_x": 0.5,
+      "wind_y": -1.0,
+      "emission": 5.0,
+      "max_concentration": 1.4083287257865844,
+      "mean_concentration": 0.015133438788919847,
+      "area_above_threshold": 12
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": -1.0,
+      "emission": 10.0,
+      "max_concentration": 2.816657451573169,
+      "mean_concentration": 0.030266877577839694,
+      "area_above_threshold": 12
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": -1.0,
+      "emission": 20.0,
+      "max_concentration": 5.633314903146338,
+      "mean_concentration": 0.06053375515567939,
+      "area_above_threshold": 12
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": 0.0,
+      "emission": 5.0,
+      "max_concentration": 2.9895119819731915,
+      "mean_concentration": 0.07588764504944528,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": 0.0,
+      "emission": 10.0,
+      "max_concentration": 5.979023963946383,
+      "mean_concentration": 0.15177529009889057,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": 0.0,
+      "emission": 20.0,
+      "max_concentration": 11.958047927892766,
+      "mean_concentration": 0.30355058019778114,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": 1.0,
+      "emission": 5.0,
+      "max_concentration": 1.4083287257868282,
+      "mean_concentration": 0.04322355003832529,
+      "area_above_threshold": 12
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": 1.0,
+      "emission": 10.0,
+      "max_concentration": 2.8166574515736564,
+      "mean_concentration": 0.08644710007665057,
+      "area_above_threshold": 12
+    },
+    {
+      "wind_x": 0.5,
+      "wind_y": 1.0,
+      "emission": 20.0,
+      "max_concentration": 5.633314903147313,
+      "mean_concentration": 0.17289420015330115,
+      "area_above_threshold": 12
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": -1.0,
+      "emission": 5.0,
+      "max_concentration": 0.976667029793717,
+      "mean_concentration": 0.015132241497072884,
+      "area_above_threshold": 17
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": -1.0,
+      "emission": 10.0,
+      "max_concentration": 1.953334059587434,
+      "mean_concentration": 0.030264482994145768,
+      "area_above_threshold": 17
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": -1.0,
+      "emission": 20.0,
+      "max_concentration": 3.906668119174868,
+      "mean_concentration": 0.060528965988291536,
+      "area_above_threshold": 17
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": 0.0,
+      "emission": 5.0,
+      "max_concentration": 2.0073361778081495,
+      "mean_concentration": 0.04321126115057165,
+      "area_above_threshold": 5
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": 0.0,
+      "emission": 10.0,
+      "max_concentration": 4.014672355616299,
+      "mean_concentration": 0.0864225223011433,
+      "area_above_threshold": 5
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": 0.0,
+      "emission": 20.0,
+      "max_concentration": 8.029344711232598,
+      "mean_concentration": 0.1728450446022866,
+      "area_above_threshold": 5
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": 1.0,
+      "emission": 5.0,
+      "max_concentration": 0.9766670297937169,
+      "mean_concentration": 0.03925121395381308,
+      "area_above_threshold": 17
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": 1.0,
+      "emission": 10.0,
+      "max_concentration": 1.9533340595874338,
+      "mean_concentration": 0.07850242790762615,
+      "area_above_threshold": 17
+    },
+    {
+      "wind_x": 1.0,
+      "wind_y": 1.0,
+      "emission": 20.0,
+      "max_concentration": 3.9066681191748676,
+      "mean_concentration": 0.1570048558152523,
+      "area_above_threshold": 17
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": -1.0,
+      "emission": 5.0,
+      "max_concentration": 0.9156959862601718,
+      "mean_concentration": 0.015084336203684818,
+      "area_above_threshold": 11
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": -1.0,
+      "emission": 10.0,
+      "max_concentration": 1.8313919725203436,
+      "mean_concentration": 0.030168672407369635,
+      "area_above_threshold": 11
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": -1.0,
+      "emission": 20.0,
+      "max_concentration": 3.662783945040687,
+      "mean_concentration": 0.06033734481473927,
+      "area_above_threshold": 11
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": 0.0,
+      "emission": 5.0,
+      "max_concentration": 1.6361903857969444,
+      "mean_concentration": 0.02936356441598904,
+      "area_above_threshold": 6
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": 0.0,
+      "emission": 10.0,
+      "max_concentration": 3.272380771593889,
+      "mean_concentration": 0.05872712883197808,
+      "area_above_threshold": 6
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": 0.0,
+      "emission": 20.0,
+      "max_concentration": 6.544761543187778,
+      "mean_concentration": 0.11745425766395616,
+      "area_above_threshold": 6
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": 1.0,
+      "emission": 5.0,
+      "max_concentration": 0.9156959862601718,
+      "mean_concentration": 0.029223551045101662,
+      "area_above_threshold": 11
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": 1.0,
+      "emission": 10.0,
+      "max_concentration": 1.8313919725203436,
+      "mean_concentration": 0.058447102090203325,
+      "area_above_threshold": 11
+    },
+    {
+      "wind_x": 1.5,
+      "wind_y": 1.0,
+      "emission": 20.0,
+      "max_concentration": 3.662783945040687,
+      "mean_concentration": 0.11689420418040665,
+      "area_above_threshold": 11
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": -1.0,
+      "emission": 5.0,
+      "max_concentration": 0.8496369427095515,
+      "mean_concentration": 0.01479265262032705,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": -1.0,
+      "emission": 10.0,
+      "max_concentration": 1.699273885419103,
+      "mean_concentration": 0.0295853052406541,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": -1.0,
+      "emission": 20.0,
+      "max_concentration": 3.398547770838206,
+      "mean_concentration": 0.0591706104813082,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": 0.0,
+      "emission": 5.0,
+      "max_concentration": 1.3935573511750763,
+      "mean_concentration": 0.022208440233047563,
+      "area_above_threshold": 6
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": 0.0,
+      "emission": 10.0,
+      "max_concentration": 2.7871147023501526,
+      "mean_concentration": 0.04441688046609513,
+      "area_above_threshold": 6
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": 0.0,
+      "emission": 20.0,
+      "max_concentration": 5.574229404700305,
+      "mean_concentration": 0.08883376093219025,
+      "area_above_threshold": 6
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": 1.0,
+      "emission": 5.0,
+      "max_concentration": 0.8496369427095515,
+      "mean_concentration": 0.022205937098731265,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": 1.0,
+      "emission": 10.0,
+      "max_concentration": 1.699273885419103,
+      "mean_concentration": 0.04441187419746253,
+      "area_above_threshold": 10
+    },
+    {
+      "wind_x": 2.0,
+      "wind_y": 1.0,
+      "emission": 20.0,
+      "max_concentration": 3.398547770838206,
+      "mean_concentration": 0.08882374839492506,
+      "area_above_threshold": 10
+    }
+  ]
+}
