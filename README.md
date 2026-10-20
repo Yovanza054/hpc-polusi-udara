@@ -159,6 +159,10 @@ Hasil di bawah diperoleh dari satu kali eksekusi pada mesin dengan **2 core**.
 - Mempercepat dengan GPU
 - Memperluas ke model 3D
 
-## 📝 Lisensi
+---
 
-Bebas dipakai untuk pembelajaran. Tambahkan lisensi pilihan Anda (misalnya MIT) sebelum dipublikasikan.
+<div align="center">
+
+Yovanza Villareal - G1A023054
+
+</div>
